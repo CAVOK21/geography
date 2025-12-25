@@ -38,32 +38,32 @@ const configs = [
   {
     coords: [53.998848111522534, 27.30984758889346],
     label: "Турбаза",
-    src: "/static/tyrbaza.jpg",
+    src: "/geography/static/tyrbaza.jpg",
   },
   {
     coords: [54.03260355694114, 27.254911425654054],
     label: "Крыница пяшчанка",
-    src: "/static/paschanka.jpg",
+    src: "/geography/static/paschanka.jpg",
   },
   {
     coords: [54.03599982506858, 27.248248818462006],
     label: "Хмелевский водопад",
-    src: "/static/hmeleyka.jpg",
+    src: "/geography/static/hmeleyka.jpg",
   },
   {
     coords: [53.99998865610981, 27.31162980368535],
     label: "Гребной канал",
-    src: "/static/grebkanal2.jpg",
+    src: "/geography/static/grebkanal2.jpg",
   },
   {
     coords: [53.976312476392536, 27.3405276701716],
     label: "Санаторий юность",
-    src: "/static/unost.jpg",
+    src: "/geography/static/unost.jpg",
   },
   {
     coords: [53.97302509487277, 27.344890739131404],
     label: "Остров любви",
-    src: "/static/lubov.jpg",
+    src: "/geography/static/lubov.jpg",
   },
 ];
 
