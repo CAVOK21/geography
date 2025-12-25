@@ -123,7 +123,7 @@ body {
   }
 
 #header-bg {
-  background-image: url("/static/header-bg.webp");
+  background-image: url("/geography/static/header-bg.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; /* Use background-size to cover the element */
@@ -301,3 +301,4 @@ button:hover {
 button:active {
     background-color: rgba(0, 0, 0, 0.388);
   }
+
